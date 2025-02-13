@@ -6,3 +6,5 @@ how to run :
 open this project in your ide (for ex : eclipse)
 you can just drag and drop this project folder OR
 Go to eclipse or any ide open an existing project and select this folder where you have downloaded it.
+
+if done with this, then run the view.java file 
